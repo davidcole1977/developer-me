@@ -34,7 +34,7 @@ function storeDeveloperList(newDeveloperList) {
 }
 
 function logFirstDeveloper(developers) {
-	const message = chalk.green(`Your tame developer is ${developers[0]}`);
+	const message = chalk.green(`Your developer is ${developers[0]}`);
 	console.log(message);
 
 	return developers;

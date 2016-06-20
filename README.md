@@ -17,5 +17,6 @@ Then to get a developer:
 
 ```
 developer-me
+# Your tame Developer is Lucy
 ```
 

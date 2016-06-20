@@ -1,6 +1,12 @@
 # developer-me
 > The random developer assignment tool you never knew you needed
 
+## Dependencies
+
+Requires Node >= 6.0
+
+## Installation and useage
+
 Install globally to use as a terminal command:
 
 ```
@@ -12,3 +18,4 @@ Then to get a developer:
 ```
 developer-me
 ```
+

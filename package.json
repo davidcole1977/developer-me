@@ -4,6 +4,10 @@
   "description": "The developer assignment tool you never knew you needed",
   "main": "index.js",
   "author": "David Cole",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/davidcole1977/developer-me.git"
+  },
   "dependencies": {
     "chalk": "^1.1.3",
     "lodash": "^4.13.1"

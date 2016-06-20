@@ -1,7 +1,7 @@
 # developer-me
 > The random developer assignment tool you never knew you needed
 
-## Dependencies
+## Requirements
 
 Requires Node >= 6.0
 
@@ -17,5 +17,6 @@ Then to get a developer:
 
 ```
 developer-me
+# Your tame Developer is Lucy
 ```
 

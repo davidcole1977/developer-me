@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const { getDeveloperList, storeDeveloperList, logFirstDeveloper, moveFirstToLast, logError } = require('./developer-me');
 
 getDeveloperList()

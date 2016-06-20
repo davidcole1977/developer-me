@@ -10,5 +10,8 @@
   },
   "engines" : { 
     "node" : ">=6.0"
+  },
+  "bin": {
+    "developer-me": "./index.js"
   }
 }

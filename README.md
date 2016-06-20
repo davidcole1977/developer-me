@@ -1,5 +1,5 @@
 # developer-me
-> The random developer assignment tool you never knew you needed
+> The developer assignment tool you never knew you needed
 
 ## Requirements
 

@@ -3,7 +3,7 @@ var chalk = require('chalk');
 const _ = require('lodash');
 
 function getDeveloperList() {
-	const developersLocation = './developer-list.json';
+	const developersLocation = `${__dirname}/developer-list.json`;
 
 	return new Promise((resolve, reject) => {
 		fs.readFile(developersLocation, 'utf8', (error, payload) => {
@@ -17,7 +17,7 @@ function getDeveloperList() {
 }
 
 function storeDeveloperList(newDeveloperList) {
-	const developersLocation = './developer-list.json';
+	const developersLocation = `${__dirname}/developer-list.json`;
 	const developersJson = JSON.stringify({
 		developers: newDeveloperList
 	}, null, 2);
